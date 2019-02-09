@@ -24,7 +24,7 @@ public class CardTrick {
         System.out.println("Enter your Suit color");
         Scanner pi = new Scanner(System.in);
         String col = pi.nextLine();
-        
+        int ii;
         int v,hp;
         Card[] magicHand = new Card[7];
         Card c = new Card();
