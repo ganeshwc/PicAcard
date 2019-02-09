@@ -82,5 +82,6 @@ public class CardTrick {
         // and search magicHand here
         //Then report the result here
     }
+    System.out.println("Helelonvdojbvosi");
     
 }
